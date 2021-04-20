@@ -14,7 +14,7 @@ any other movie writer.
 
 ___
 
-The `images` folder contains graphs for project Q4 - a and b. The *animations* folder contains animation clips of project 1, 2, 3, 4 and 9. 
+The `images` folder contains graphs for project Q4 - a and b. The `animations` folder contains animation clips of project 1, 2, 3, 4 and 9. 
 
 `diff_equilibrium.py` simulates project Q1's equilibrium condition while considering absorbing boundary conditions.
 
