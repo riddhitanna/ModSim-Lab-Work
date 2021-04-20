@@ -1,7 +1,7 @@
 # Lab 10
 
-In this lab, we model heat diffusion. We have covered project questions 1, 2, 3, 4 and 9 from A. Shiflet and G. Shiflet, 
-*Introduction to Computational Science: Modeling and Simulation for the Sciences*, Princeton University Press.3, 276 (2006), Module 10.2.
+In this lab, we model heat diffusion. We have covered project question 9 and exercise 1 and 2 from A. Shiflet and G. Shiflet, 
+*Introduction to Computational Science: Modeling and Simulation for the Sciences*, Princeton University Press.3, 276 (2006), Module 10.3.
 
 ___
 
